@@ -1,0 +1,3 @@
+class ClassDemo04 {
+
+}

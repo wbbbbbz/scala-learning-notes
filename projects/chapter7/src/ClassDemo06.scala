@@ -1,0 +1,3 @@
+object ClassDemo06 {
+
+}
