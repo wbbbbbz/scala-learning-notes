@@ -7,3 +7,4 @@ projects/*/dataSources.local.xml
 projects/*/httpRequests/
 .vscode/settings.json
 projects/*/out/
+projects/*/.idea/.gitignore
