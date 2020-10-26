@@ -1,0 +1,18 @@
+2020.10.26 20:47:45 INFO  started: Metals version 0.9.4 in workspace 'E:\Programming\scala-learning-notes' for client vscode.
+2020.10.26 20:47:46 INFO  time: initialize in 0.93s
+2020.10.26 20:47:47 WARN  no build tool detected in workspace 'E:\Programming\scala-learning-notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.26 20:47:51 INFO  no build target: using presentation compiler with only scala-library
+2020.10.26 20:47:51 WARN  no build target for: E:\Programming\scala-learning-notes\src\Chapter6\ClassDemo.scala
+2020.10.26 20:50:09 INFO  shutting down Metals
+2020.10.26 21:39:02 INFO  started: Metals version 0.9.4 in workspace 'E:\Programming\scala-learning-notes' for client vscode.
+2020.10.26 21:39:03 INFO  time: initialize in 0.31s
+2020.10.26 21:39:03 WARN  no build tool detected in workspace 'E:\Programming\scala-learning-notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.26 21:39:05 INFO  no build target: using presentation compiler with only scala-library
+2020.10.26 21:39:05 WARN  no build target for: E:\Programming\scala-learning-notes\projects\chapter6\src\ClassDemo.scala
+十月 26, 2020 9:39:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTraceNotification
+十月 26, 2020 9:39:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTraceNotification
+十月 26, 2020 9:40:01 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTraceNotification
+2020.10.26 21:43:17 INFO  shutting down Metals

@@ -146,8 +146,6 @@ scala程序运行需要依赖于Java类库，那么必须要有**Java运行环�
 
 Scala SDK是scala语言的编译器，要开发scala程序，必须要先安装Scala SDK
 安装的版本是: 2.13.3
-使用开发工具: vscode
-
 
 ### 4. Scala解释器
 

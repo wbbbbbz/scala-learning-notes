@@ -1,0 +1,9 @@
+# Default ignored files
+projects/*/.idea/workspace.xml
+# Datasource local storage ignored files
+projects/*/dataSources/
+projects/*/dataSources.local.xml
+# Editor-based HTTP Client requests
+projects/*/httpRequests/
+.vscode/settings.json
+projects/*/out/
