@@ -9,3 +9,4 @@
 | :--- | :--- |
 | 第1章 | [笔记](notes/Scala第一章节.md) |
 | 第2章 | [笔记](notes/Scala第二章节.md) |
+| 第3章 | [笔记](notes/Scala第三章节.md) |
