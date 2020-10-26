@@ -11,3 +11,4 @@
 | 第2章 | [笔记](notes/Scala第二章节.md) |
 | 第3章 | [笔记](notes/Scala第三章节.md) |
 | 第4章 | [笔记](notes/Scala第四章节.md) |
+| 第5章 | [笔记](notes/Scala第五章节.md) |
