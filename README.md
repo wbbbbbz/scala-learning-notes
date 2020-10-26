@@ -14,3 +14,4 @@
 | 第5章 | [笔记](notes/Scala第五章节.md) |
 | 第6章 | [笔记](notes/Scala第六章节.md) |
 | 第7章 | [笔记](notes/Scala第七章节.md) |
+| 第8章 | [笔记](notes/Scala第八章节.md) |
