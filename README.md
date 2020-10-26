@@ -1,4 +1,4 @@
-# 大数据教程轻松学会scala(From黑马程序员)学习笔记:closed_book:
+# 大数据教程轻松学会scala(From黑马程序员)学习笔记:notebook:
 
 参考官方课程说明
 [大数据教程轻松学会scala](http://yun.itheima.com/course/681.html?2010zzp)。
