@@ -23,3 +23,4 @@
 | 第14章 | [笔记](notes/Scala第十四章节.pdf) |
 | 第15章 | [笔记](notes/Scala第十五章节.pdf) |
 | 第16章 | [笔记](notes/Scala第十六章节.md) |
+| 第17章 | [笔记](notes/Scala第十七章节.md) |
