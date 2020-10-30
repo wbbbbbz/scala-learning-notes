@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-demo-worker" />
+        <module name="akka-demo" />
+        <module name="spark-demo-common" />
+        <module name="akka-master" />
+        <module name="akka-worker" />
+        <module name="spark-demo-master" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="akka-demo" target="1.8" />
+      <module name="akka-master" target="1.8" />
+      <module name="akka-worker" target="1.8" />
+      <module name="spark-demo-common" target="1.8" />
+      <module name="spark-demo-master" target="1.8" />
+      <module name="spark-demo-worker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="akka-demo">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\akka-demo\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="akka-worker">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\akka-worker\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="akka-master">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\akka-master\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="spark-demo-common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\spark-demo-common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="spark-demo-master">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\spark-demo-master\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="spark-demo-worker">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Programming\scala-learning-notes\projects\chapter20\spark-demo-worker\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>

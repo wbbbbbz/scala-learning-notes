@@ -25,3 +25,5 @@
 | 第16章 | [笔记](notes/Scala第十六章节.md) |
 | 第17章 | [笔记](notes/Scala第十七章节.md) |
 | 第18章 | [笔记](notes/Scala第十八章节.md) |
+| 第19章 | [笔记](notes/Scala第十九章节.md) |
+| 第20章 | [笔记](notes/Scala第二十章节.md) |

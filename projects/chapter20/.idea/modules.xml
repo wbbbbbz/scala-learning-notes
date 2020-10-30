@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/akka-demo/akka-demo.iml" filepath="$PROJECT_DIR$/akka-demo/akka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka-master/akka-master.iml" filepath="$PROJECT_DIR$/akka-master/akka-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka-worker/akka-worker.iml" filepath="$PROJECT_DIR$/akka-worker/akka-worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20.iml" filepath="$PROJECT_DIR$/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-demo-common/spark-demo-common.iml" filepath="$PROJECT_DIR$/spark-demo-common/spark-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-demo-master/spark-demo-master.iml" filepath="$PROJECT_DIR$/spark-demo-master/spark-demo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-demo-worker/spark-demo-worker.iml" filepath="$PROJECT_DIR$/spark-demo-worker/spark-demo-worker.iml" />
+    </modules>
+  </component>
+</project>
